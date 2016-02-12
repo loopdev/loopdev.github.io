@@ -1,11 +1,34 @@
 ---
 layout: page
-title: About
+title:  About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+**The Loop** is a recurring open source hacking meet up in Hong Kong.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+In short, we hack open source code in the same room every 2 weeks.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you,
+
+1. Want to be a developer; or
+2. Is a developer who wants to develop open source software; or
+3. Is developing open source software,
+
+we welcome you to join us in our coming iterations.
+
+## Details
+
+* **When:** Tuesday, every 2 weeks
+* **Where:** [Dim Sum Lab][dim-sum-lab] ([map][dim-sum-lab-map])
+* **Organizer:** [Hong Kong Linux User Group][hklug]
+
+[hklug]: https://www.facebook.com/groups/hklug/
+[dim-sum-lab]: http://dimsumlabs.com
+[dim-sum-lab-map]: http://www.dimsumlabs.com/finding-us/
+[facebook]: https://www.facebook.com/groups/loop.dev/
+
+## Contact
+
+We meet physically. Just come.
+
+Alternatively, you may find us on our [Facebook group][facebook].

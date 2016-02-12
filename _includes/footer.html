@@ -2,14 +2,13 @@
 
   <div class="wrap">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-1 column">
       <ul>
-        <li>{{ site.title }}</li>
-        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        {% if site.facebook_group %}<li>
+          <a target="_blank" href="{{ site.facebook_group }}">Facebook Group</a>
+        </li>
       </ul>
-    </div>
+    </div>{% endif %}
 
     <div class="footer-col-2 column">
       <ul>

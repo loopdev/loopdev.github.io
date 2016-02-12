@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "A New Hope"
+date:   2016-02-12 17:38:38
+categories:
+---
+
+Although **The Loop** has been more than 2 years old, it didn't have an official
+site. In the spirit of a hacker event, here we are on Github :-)
+
+If you are reading this page by mistake, you may want to read [about us][about-us].
+
+Come to our events :-)
+
+[about-us]: /about/

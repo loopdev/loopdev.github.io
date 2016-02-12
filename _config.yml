@@ -1,10 +1,11 @@
 # Site settings
-title: The Loop
+title: "The Loop"
 email: ""
-description: "A recurring open source hacking meet up."
+description: "A recurring open source hacking meet up in HK."
 baseurl: ""
 url: "http://loopdev.github.io"
 github_username:  ""
+facebook_group: "https://www.facebook.com/groups/loop.dev"
 
 # Build settings
 markdown: kramdown
